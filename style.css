@@ -1,0 +1,45 @@
+html {
+    background: #041ae0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: rgb(16, 160, 226);
+}
+
+h1 { 
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+#blog {
+    border-top: 1px dotted #ccc;
+}
+
+.blog-post {
+    border-bottom: 1px dotted #ccc;
+}
+
+article {
+    border-bottom: 1px solid #000;
+}
+
+img {
+    border: 25px solid #082f5c;
+}
+
+img[src]{
+    padding: 10px
+}
+a[href]{
+    padding : 10px
+}
+
